@@ -147,6 +147,20 @@ To create business-focused KPIs, DAX measures were developed for:
 - Average Resolution Time
 - Dynamic KPI Calculations
 
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](Images/Overview.png)
+
+### Customer Churn Analysis
+![Customer Churn Analysis](Images/Churn%20Analysis.png)
+
+### Customer Support Analysis
+![Customer Support Analysis](Images/Support%20Analysis.png)
+
+### Revenue Analysis
+![Revenue Analysis](Images/Revenue%20Analysis.png)
+
 ---
 
 ## Key Insights
@@ -168,7 +182,7 @@ To create business-focused KPIs, DAX measures were developed for:
 - Improve customer support response and resolution times.
 - Focus retention efforts on high-risk customer segments.
 - Monitor customer satisfaction scores regularly.
-- Develop loyalty programs for valuable customers.
+- Offer welcome discounts and personalized recommendations to encourage repeat purchases.
 - Identify churn indicators early through continuous monitoring.
 - Leverage dashboard insights for proactive decision-making.
 
