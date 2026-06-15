@@ -1,0 +1,501 @@
+product_id,category,brand,price
+PROD0001,Electronics,"Ayers, Buchanan and Martin",37201.22
+PROD0002,Electronics,Schneider LLC,16339.74
+PROD0003,Home,Murphy and Sons,2252.69
+PROD0004,Beauty,Smith-Boyle,4484.2
+PROD0005,Sports,"Harris, Lewis and Williams",14311.17
+PROD0006,Fashion,"Johnson, Dawson and Bean",33007.57
+PROD0007,Fashion,Torres-Erickson,36828.97
+PROD0008,Beauty,Brennan Ltd,44717.87
+PROD0009,Beauty,Rowe-Murphy,27375.69
+PROD0010,Electronics,"Wood, Holt and Simon",20550.09
+PROD0011,Sports,Garrett Inc,43996.88
+PROD0012,Fashion,"Hernandez, Williams and Farmer",19465.81
+PROD0013,Sports,Horn Inc,23910.74
+PROD0014,Home,Wu-Mata,20324.14
+PROD0015,Fashion,Lowe LLC,34497.3
+PROD0016,Books,Frazier Inc,35069.34
+PROD0017,Fashion,Anderson LLC,27740.3
+PROD0018,Sports,Norton-White,32161.9
+PROD0019,Sports,Smith and Sons,6860.28
+PROD0020,Books,Price Ltd,40273.6
+PROD0021,Beauty,Garcia Group,37376.16
+PROD0022,Home,Park-Miller,4764.2
+PROD0023,Electronics,Kennedy-Roberts,29436.8
+PROD0024,Beauty,Mckinney-Frey,14984.23
+PROD0025,Books,Gonzalez-Higgins,36361.6
+PROD0026,Home,Wright Ltd,48877.46
+PROD0027,Books,Bradshaw Group,4280.33
+PROD0028,Electronics,Alvarado Ltd,32165.22
+PROD0029,Home,Nguyen-Santos,40597.24
+PROD0030,Electronics,Dixon Ltd,10393.89
+PROD0031,Beauty,Cantrell PLC,9763.44
+PROD0032,Fashion,Scott LLC,27414.46
+PROD0033,Beauty,Ochoa-Mendoza,8722.24
+PROD0034,Electronics,"Ingram, Rogers and Mendoza",21151.26
+PROD0035,Electronics,Johnson-Salas,19527.91
+PROD0036,Books,Pierce Group,23746.14
+PROD0037,Home,"Smith, Hatfield and Hurst",42614.36
+PROD0038,Sports,Wilson and Sons,46154.65
+PROD0039,Sports,Hurley-Johnson,43994.99
+PROD0040,Beauty,Merritt Inc,15576.38
+PROD0041,Books,Torres-Jones,37887.03
+PROD0042,Electronics,"Scott, Williams and Hernandez",18649.33
+PROD0043,Sports,Johnson LLC,46549.24
+PROD0044,Books,Jones LLC,15528.72
+PROD0045,Electronics,"White, Davis and Williams",10057.26
+PROD0046,Electronics,"Mccormick, Walker and Ball",41474.11
+PROD0047,Beauty,Lopez-Carroll,14812.07
+PROD0048,Beauty,"Griffin, Gregory and Jones",32787.25
+PROD0049,Fashion,Gonzales-Russo,25948.21
+PROD0050,Home,"Johnson, Lopez and Hernandez",9764.42
+PROD0051,Books,Hopkins-Jones,34833.16
+PROD0052,Fashion,"Moore, Rodriguez and Valenzuela",29668.43
+PROD0053,Home,Bentley-Mccarthy,21320.58
+PROD0054,Sports,Henderson-Davis,25473.12
+PROD0055,Electronics,Taylor PLC,2289.5
+PROD0056,Electronics,Webster-Brown,23177.74
+PROD0057,Sports,Hudson PLC,8201.93
+PROD0058,Sports,"Guerra, Cole and Brown",102.43
+PROD0059,Beauty,Larson-Tyler,9085.67
+PROD0060,Beauty,Rivers-Hensley,27998.23
+PROD0061,Sports,Nguyen Inc,26130.02
+PROD0062,Electronics,"Garcia, Butler and Davis",7365.69
+PROD0063,Fashion,Carson-Jones,417.96
+PROD0064,Fashion,Patterson-Lopez,19574.81
+PROD0065,Fashion,"Fisher, Johns and Hunt",8746.0
+PROD0066,Home,Nguyen-Key,29799.04
+PROD0067,Books,Franklin and Sons,24654.21
+PROD0068,Electronics,Watts and Sons,31910.88
+PROD0069,Books,"Morrison, Henry and Wilson",11681.38
+PROD0070,Electronics,Briggs-Campbell,37572.16
+PROD0071,Books,Harvey-Poole,1328.12
+PROD0072,Beauty,"Murphy, Sanders and Nielsen",22157.05
+PROD0073,Fashion,"Wu, Wilson and Peters",21444.62
+PROD0074,Sports,Carpenter-Vazquez,46575.86
+PROD0075,Fashion,Hays Ltd,30782.05
+PROD0076,Electronics,Johns PLC,43773.6
+PROD0077,Books,"Gonzalez, Edwards and Davis",32367.63
+PROD0078,Beauty,Smith Ltd,20388.24
+PROD0079,Sports,Le Ltd,45608.97
+PROD0080,Fashion,"Myers, Wu and Newman",46462.45
+PROD0081,Beauty,Estrada PLC,48814.91
+PROD0082,Sports,"Johnson, Mullen and Murphy",17673.26
+PROD0083,Books,Brown-Soto,4613.7
+PROD0084,Books,Fox LLC,5661.52
+PROD0085,Home,Riley Inc,21524.41
+PROD0086,Home,"Craig, Mills and Adams",6987.36
+PROD0087,Books,"Martinez, Robinson and Nelson",46214.44
+PROD0088,Home,"Mays, Brown and Molina",12984.79
+PROD0089,Books,Smith PLC,36342.48
+PROD0090,Fashion,Hunt Inc,26334.93
+PROD0091,Home,White and Sons,45692.11
+PROD0092,Home,Meadows-Nguyen,28418.58
+PROD0093,Sports,Reeves LLC,49257.72
+PROD0094,Fashion,Gomez LLC,4161.82
+PROD0095,Beauty,"Ramsey, Gallagher and Green",33307.9
+PROD0096,Sports,Thompson-Holmes,30780.53
+PROD0097,Home,"Miller, Johnson and Schmidt",33850.09
+PROD0098,Home,Contreras Group,15928.77
+PROD0099,Books,Jones Inc,4517.61
+PROD0100,Sports,"Vazquez, Galloway and Romero",10791.84
+PROD0101,Electronics,"Dorsey, Wood and Ferguson",43073.44
+PROD0102,Home,"Caldwell, Thompson and Dean",41458.52
+PROD0103,Home,Lyons Group,11257.87
+PROD0104,Electronics,Gamble-Valdez,1520.35
+PROD0105,Home,Escobar-Figueroa,33210.19
+PROD0106,Books,Sanchez Group,11061.56
+PROD0107,Fashion,Lee-Anderson,24705.19
+PROD0108,Beauty,Mcgee PLC,22008.26
+PROD0109,Home,Gonzalez Ltd,33251.37
+PROD0110,Sports,Jones-Rojas,17652.38
+PROD0111,Beauty,Murray-Reed,21910.38
+PROD0112,Electronics,"Rodriguez, Espinoza and Ramirez",41481.62
+PROD0113,Electronics,"Villa, Evans and Johnson",15766.51
+PROD0114,Books,Higgins Group,9424.8
+PROD0115,Beauty,Green Ltd,19230.9
+PROD0116,Fashion,"Boyd, Smith and Lowe",13228.49
+PROD0117,Books,"Short, Galvan and Petersen",45221.63
+PROD0118,Books,Vincent Inc,638.28
+PROD0119,Home,"Ward, Woodard and Davidson",41246.19
+PROD0120,Fashion,Thomas and Sons,12225.74
+PROD0121,Sports,Mendez-Hughes,13687.78
+PROD0122,Electronics,Jordan LLC,5490.27
+PROD0123,Books,Wilson Group,26119.24
+PROD0124,Fashion,"Baxter, Tyler and Ramos",2375.96
+PROD0125,Sports,Franco LLC,21895.81
+PROD0126,Books,"Whitney, Beltran and Hodge",36674.64
+PROD0127,Electronics,Smith-Lang,35914.53
+PROD0128,Electronics,Roberts-Paul,6694.71
+PROD0129,Sports,Mcclain LLC,17005.27
+PROD0130,Home,Davis PLC,39449.77
+PROD0131,Home,"Clark, Nelson and Savage",7321.57
+PROD0132,Beauty,"Jackson, Malone and Stewart",10715.81
+PROD0133,Electronics,"Wilson, Sanchez and Martinez",9403.71
+PROD0134,Sports,James LLC,46301.06
+PROD0135,Electronics,"Wallace, Pittman and Whitney",1707.59
+PROD0136,Sports,Scott PLC,5577.51
+PROD0137,Books,"Lee, Figueroa and Barron",49393.87
+PROD0138,Beauty,Dennis-Miller,35999.35
+PROD0139,Electronics,Taylor-Price,35515.17
+PROD0140,Home,Lane Ltd,14249.61
+PROD0141,Books,Bowen-Collins,31732.04
+PROD0142,Sports,"Massey, Martin and Brown",23111.46
+PROD0143,Books,Hayes-Jones,16191.97
+PROD0144,Books,Ward Ltd,3609.5
+PROD0145,Beauty,Kelley-Miller,49798.71
+PROD0146,Electronics,Simmons Inc,3747.17
+PROD0147,Sports,Hanna-Gomez,25903.33
+PROD0148,Books,"Sanchez, Martinez and Davis",25564.68
+PROD0149,Books,Lopez Group,36508.26
+PROD0150,Home,"Nguyen, Stephens and Butler",9055.91
+PROD0151,Home,Smith Group,43725.42
+PROD0152,Books,Taylor-Lee,39355.89
+PROD0153,Electronics,Stewart and Sons,29121.31
+PROD0154,Home,Wallace-Johnston,30547.98
+PROD0155,Books,Wilson-Jones,17357.38
+PROD0156,Beauty,Jones PLC,4347.29
+PROD0157,Books,Randall-Garcia,11053.04
+PROD0158,Sports,"Taylor, Hurley and Moore",36563.6
+PROD0159,Sports,"Johnson, Higgins and Johnson",1417.32
+PROD0160,Beauty,Holloway and Sons,6569.05
+PROD0161,Electronics,"Hernandez, Strickland and Garcia",43529.28
+PROD0162,Beauty,"Taylor, Rodriguez and Webb",41127.36
+PROD0163,Beauty,Montoya Inc,39751.33
+PROD0164,Books,Wood PLC,27138.85
+PROD0165,Beauty,"Payne, Stafford and Taylor",40671.69
+PROD0166,Sports,Daugherty LLC,27619.6
+PROD0167,Electronics,Daugherty Group,21962.28
+PROD0168,Home,Johnston-Acosta,48558.42
+PROD0169,Home,"Hill, Booth and Williams",49013.17
+PROD0170,Beauty,"Hawkins, Riddle and Hunt",11079.84
+PROD0171,Fashion,"Wilkerson, Keith and Harvey",13882.14
+PROD0172,Fashion,"Schneider, Silva and Lee",14095.39
+PROD0173,Fashion,Barnes Ltd,1092.54
+PROD0174,Fashion,Collins Ltd,33247.5
+PROD0175,Beauty,Nichols and Sons,37166.48
+PROD0176,Sports,"Davidson, Sawyer and Griffith",6166.91
+PROD0177,Sports,"James, Ochoa and Hale",44956.92
+PROD0178,Home,"Johnston, Hernandez and Jones",8224.86
+PROD0179,Books,Roberts Ltd,32000.99
+PROD0180,Home,Cox-Solomon,40893.47
+PROD0181,Electronics,Kim-Rogers,24309.75
+PROD0182,Sports,"Murillo, Woods and Moore",10346.42
+PROD0183,Sports,"Lopez, Rosales and Bailey",2831.2
+PROD0184,Fashion,Ramos-Allen,28652.53
+PROD0185,Fashion,Castro PLC,19616.91
+PROD0186,Fashion,"Wilson, Montgomery and West",4818.94
+PROD0187,Fashion,"Romero, Mitchell and Hudson",42897.62
+PROD0188,Home,Davis Inc,1814.75
+PROD0189,Home,Hanson-Mullins,38923.6
+PROD0190,Books,Ramirez-Thomas,38445.55
+PROD0191,Fashion,Gibbs-Powell,260.57
+PROD0192,Sports,Lozano-Gallagher,7346.87
+PROD0193,Electronics,Harper Inc,34418.08
+PROD0194,Books,Malone Group,22566.27
+PROD0195,Home,Cruz Group,29430.75
+PROD0196,Sports,"Proctor, Barnett and Watkins",13950.83
+PROD0197,Beauty,Shepard-Martin,12428.78
+PROD0198,Sports,Martinez-Sanchez,28276.1
+PROD0199,Fashion,"Harrison, Patton and Young",15768.83
+PROD0200,Books,Robinson and Sons,511.96
+PROD0201,Home,"Dickson, Adams and Fox",12692.59
+PROD0202,Sports,Thompson LLC,12058.76
+PROD0203,Beauty,Rios PLC,13231.19
+PROD0204,Electronics,Hatfield-Becker,35766.06
+PROD0205,Sports,Paul PLC,3499.38
+PROD0206,Fashion,Lopez-Carr,2125.02
+PROD0207,Home,"Rogers, Gonzales and Jones",22062.53
+PROD0208,Fashion,Perry and Sons,19165.95
+PROD0209,Fashion,Scott-Reid,39539.92
+PROD0210,Fashion,Hernandez-Alexander,41910.35
+PROD0211,Home,Kirk PLC,23318.65
+PROD0212,Electronics,Acosta Ltd,10521.2
+PROD0213,Beauty,Le-Martinez,14718.98
+PROD0214,Sports,Harding LLC,38374.17
+PROD0215,Home,"Holloway, Hurst and Powers",5499.08
+PROD0216,Sports,Soto LLC,24581.55
+PROD0217,Sports,Smith Inc,45535.31
+PROD0218,Books,"Torres, Howard and Hernandez",10064.4
+PROD0219,Books,Nunez Group,365.52
+PROD0220,Fashion,Davenport-Davis,24367.21
+PROD0221,Home,Miller Ltd,16890.11
+PROD0222,Electronics,Johnson-Thomas,35792.82
+PROD0223,Home,Price-Russell,41910.67
+PROD0224,Books,Torres LLC,12007.95
+PROD0225,Beauty,"Donaldson, Gutierrez and Watson",15656.27
+PROD0226,Books,Hunt-Foster,1399.78
+PROD0227,Home,Armstrong and Sons,30627.43
+PROD0228,Electronics,Rodriguez-Alexander,28249.49
+PROD0229,Books,Jackson Ltd,24470.6
+PROD0230,Books,Alvarez and Sons,12004.38
+PROD0231,Electronics,"Clark, Page and Moore",29691.54
+PROD0232,Fashion,Craig PLC,30836.84
+PROD0233,Fashion,Zuniga LLC,41343.64
+PROD0234,Sports,"Hicks, Gillespie and Kelley",17516.41
+PROD0235,Home,Lopez-Carson,42306.95
+PROD0236,Home,Armstrong LLC,39288.83
+PROD0237,Books,Suarez Ltd,41539.74
+PROD0238,Books,"Roberts, Moore and Fuentes",7988.24
+PROD0239,Electronics,Morgan-Padilla,9272.93
+PROD0240,Sports,Green and Sons,41871.13
+PROD0241,Sports,Black Ltd,28266.98
+PROD0242,Electronics,"Mckee, Frederick and Smith",31977.38
+PROD0243,Sports,"Oliver, Williams and Smith",24358.48
+PROD0244,Beauty,Mccormick-Harper,35502.45
+PROD0245,Fashion,Schroeder Group,28555.09
+PROD0246,Books,Franklin-Williams,5156.43
+PROD0247,Home,"Moore, Russell and Graves",13857.13
+PROD0248,Home,Butler-Johnson,46026.7
+PROD0249,Fashion,Levine-Thompson,22432.97
+PROD0250,Beauty,Hill Inc,10013.0
+PROD0251,Home,Gardner Inc,18328.04
+PROD0252,Beauty,Duran-Matthews,14169.06
+PROD0253,Books,Miranda PLC,32106.41
+PROD0254,Fashion,Hughes Inc,27709.62
+PROD0255,Beauty,Gomez-Lowe,5678.49
+PROD0256,Home,Parker LLC,44318.87
+PROD0257,Sports,James-Nichols,17472.32
+PROD0258,Sports,Garcia and Sons,35226.19
+PROD0259,Fashion,Wiley LLC,22631.06
+PROD0260,Beauty,"Logan, Soto and Smith",48672.85
+PROD0261,Books,"Johnson, Jackson and Taylor",32348.1
+PROD0262,Sports,"Dickerson, Smith and Chen",48486.02
+PROD0263,Beauty,Owens Inc,40025.95
+PROD0264,Fashion,Beck-Reynolds,29402.54
+PROD0265,Home,"Lee, Kent and Williams",31626.38
+PROD0266,Home,Kelley-Smith,34884.4
+PROD0267,Electronics,"Nichols, Marshall and Heath",33487.94
+PROD0268,Electronics,"Walker, Gardner and Fleming",4190.79
+PROD0269,Home,"Smith, Blackwell and Gonzalez",30918.34
+PROD0270,Fashion,"Villarreal, Shaw and Garcia",14852.55
+PROD0271,Sports,Lee-James,18140.02
+PROD0272,Home,"Richmond, Pacheco and Hicks",3996.37
+PROD0273,Beauty,Moss Group,38106.08
+PROD0274,Books,Paul Ltd,15058.54
+PROD0275,Fashion,Ramirez-Perez,19696.43
+PROD0276,Fashion,Petersen-Cobb,32861.6
+PROD0277,Fashion,Avila LLC,49093.44
+PROD0278,Books,"Wong, Cox and Hensley",2269.12
+PROD0279,Home,Meyers-Russell,2707.32
+PROD0280,Sports,"Davis, Bean and Hill",16296.74
+PROD0281,Sports,Adams LLC,37884.46
+PROD0282,Home,Owen and Sons,44656.83
+PROD0283,Electronics,"Hall, Johnson and Wang",5330.26
+PROD0284,Home,Dunn Inc,17035.12
+PROD0285,Books,Potts PLC,16836.98
+PROD0286,Beauty,Hodges-Doyle,12537.48
+PROD0287,Home,"Daugherty, Rowe and Campbell",35683.45
+PROD0288,Sports,"Kirk, Heath and Livingston",25845.57
+PROD0289,Beauty,Johnson-Hernandez,1690.66
+PROD0290,Books,Salinas-Mckinney,2369.61
+PROD0291,Electronics,Dyer-Garcia,23430.32
+PROD0292,Sports,"Smith, Hebert and Cardenas",13568.84
+PROD0293,Sports,Collins-Pearson,2489.55
+PROD0294,Books,Becker PLC,10573.76
+PROD0295,Sports,Marshall and Sons,5000.3
+PROD0296,Home,Zimmerman-Brown,43665.27
+PROD0297,Electronics,"Mccall, Lee and Hodge",12096.83
+PROD0298,Sports,"Luna, Doyle and Bennett",27361.27
+PROD0299,Books,"Espinoza, Mckinney and Frederick",2646.69
+PROD0300,Sports,"Holmes, Hayden and Crawford",39033.87
+PROD0301,Fashion,Gomez-Frederick,3160.97
+PROD0302,Sports,"Howard, Shaw and Horn",10121.58
+PROD0303,Fashion,Henderson PLC,33354.2
+PROD0304,Sports,"Morris, Lewis and Jones",48763.47
+PROD0305,Sports,Knight-West,10379.36
+PROD0306,Beauty,"Velazquez, Crosby and Mcdonald",2721.74
+PROD0307,Fashion,"Green, Herman and Silva",19425.97
+PROD0308,Fashion,"Quinn, Howe and Bean",24628.29
+PROD0309,Beauty,Oneal and Sons,34622.53
+PROD0310,Beauty,Smith-Morrow,42277.42
+PROD0311,Fashion,Johnson-Erickson,21708.1
+PROD0312,Sports,Johnson-Miller,34960.61
+PROD0313,Beauty,Glover and Sons,10254.33
+PROD0314,Home,"Welch, Patrick and Alexander",46489.02
+PROD0315,Home,"Davis, Logan and Warren",18843.99
+PROD0316,Fashion,"Coffey, Porter and Jackson",7250.11
+PROD0317,Home,"Thompson, Lee and Holland",19073.71
+PROD0318,Books,"Russo, Davis and Stevens",8721.26
+PROD0319,Sports,Kennedy-Hayes,16950.81
+PROD0320,Sports,Medina Ltd,38710.41
+PROD0321,Beauty,Boyd-Robertson,5346.33
+PROD0322,Fashion,Moss-Ortega,3883.47
+PROD0323,Electronics,Barrera-Ramsey,7537.54
+PROD0324,Home,Whitehead Ltd,21500.68
+PROD0325,Home,"Stewart, Gomez and Santana",7281.75
+PROD0326,Fashion,Powell and Sons,38258.54
+PROD0327,Beauty,"Pope, Taylor and Mann",33729.34
+PROD0328,Sports,Alvarez LLC,45809.98
+PROD0329,Beauty,"Nunez, Lopez and Miller",47218.57
+PROD0330,Books,"Wells, Horn and Willis",19177.58
+PROD0331,Sports,Harper Group,27768.25
+PROD0332,Sports,Martin Inc,35193.95
+PROD0333,Beauty,"Gallagher, Williams and Garrett",32917.1
+PROD0334,Home,Ramos Group,2234.41
+PROD0335,Electronics,Murphy-Mullins,26166.59
+PROD0336,Electronics,Booth-Davis,26418.25
+PROD0337,Beauty,Woods-Barton,18066.51
+PROD0338,Books,French-Stone,17029.58
+PROD0339,Electronics,Evans-Howard,23898.77
+PROD0340,Books,Smith and Sons,10928.7
+PROD0341,Home,Maldonado PLC,39852.31
+PROD0342,Electronics,White-Walker,20087.89
+PROD0343,Fashion,Liu LLC,48613.49
+PROD0344,Beauty,"Parker, Miller and Glenn",11390.65
+PROD0345,Sports,Martin-Hurley,28197.03
+PROD0346,Books,Alexander-White,20163.8
+PROD0347,Books,"Garrett, Guerrero and Davis",24465.14
+PROD0348,Beauty,Marquez PLC,34068.78
+PROD0349,Sports,Hahn-Thomas,26706.29
+PROD0350,Sports,Martinez-Callahan,22768.96
+PROD0351,Home,Flores Group,37621.65
+PROD0352,Fashion,Villanueva Group,44278.61
+PROD0353,Electronics,"Martinez, Clarke and Brown",5680.08
+PROD0354,Beauty,"Robbins, Allen and Ramirez",36716.75
+PROD0355,Electronics,Gomez-Hudson,2531.7
+PROD0356,Books,"Cole, Smith and Dunn",8693.75
+PROD0357,Home,"Cole, Ray and Walters",18813.95
+PROD0358,Home,Stone-Howard,2881.85
+PROD0359,Books,Humphrey-Cannon,6812.22
+PROD0360,Home,Gonzalez-Wright,39038.8
+PROD0361,Home,"White, Howell and Hamilton",15665.73
+PROD0362,Fashion,Tran and Sons,16760.16
+PROD0363,Books,Maldonado and Sons,45537.94
+PROD0364,Fashion,Scott Inc,43016.71
+PROD0365,Books,Robles LLC,31366.69
+PROD0366,Books,Green Group,30310.62
+PROD0367,Fashion,Green PLC,2890.46
+PROD0368,Electronics,Pennington and Sons,26338.99
+PROD0369,Sports,"Hurst, Little and Griffin",6299.25
+PROD0370,Electronics,Arias and Sons,12364.19
+PROD0371,Home,Scott-Chase,34056.77
+PROD0372,Books,Evans-Wilson,486.71
+PROD0373,Fashion,Baker-Bennett,6066.65
+PROD0374,Electronics,"Barnett, Williams and Smith",9071.21
+PROD0375,Sports,Martinez PLC,18457.39
+PROD0376,Fashion,Hernandez-Lewis,14620.81
+PROD0377,Beauty,Snyder-Robinson,25556.22
+PROD0378,Beauty,"Murray, Lee and Wood",42802.99
+PROD0379,Sports,Garcia-Zhang,11482.84
+PROD0380,Books,Richardson-Wu,27246.52
+PROD0381,Home,Mason Inc,18385.32
+PROD0382,Electronics,Wilson-Thompson,47948.65
+PROD0383,Books,Hoover LLC,43878.02
+PROD0384,Electronics,"Barron, Gordon and Hardy",24311.99
+PROD0385,Sports,Chaney and Sons,31130.59
+PROD0386,Sports,"Flores, Miller and Henderson",11798.8
+PROD0387,Books,Davis-Rhodes,24230.93
+PROD0388,Beauty,"Webb, Rice and Watts",39033.59
+PROD0389,Electronics,"Benitez, Aguilar and Macdonald",7312.27
+PROD0390,Sports,Anderson LLC,16139.4
+PROD0391,Beauty,"Hancock, Cannon and Walton",46477.12
+PROD0392,Sports,Young-Hughes,6128.87
+PROD0393,Sports,May PLC,16869.07
+PROD0394,Home,Stewart-Harrison,7813.03
+PROD0395,Home,Lopez Ltd,8687.05
+PROD0396,Beauty,Saunders PLC,22055.88
+PROD0397,Home,"Oconnor, Hawkins and Clark",24437.04
+PROD0398,Sports,"Rivera, Rodriguez and Alvarez",31784.81
+PROD0399,Fashion,"Cruz, James and Turner",49563.25
+PROD0400,Electronics,"Hill, Acevedo and Griffin",47995.91
+PROD0401,Electronics,Lucas PLC,37337.23
+PROD0402,Fashion,"Mason, Jones and Rocha",45890.12
+PROD0403,Home,Arnold-Figueroa,47947.59
+PROD0404,Home,Mccoy Group,532.55
+PROD0405,Sports,"Clarke, Myers and Nelson",33549.13
+PROD0406,Books,"Hayes, Herman and David",13857.72
+PROD0407,Electronics,Nguyen-Weaver,8068.04
+PROD0408,Electronics,Henderson and Sons,1110.46
+PROD0409,Electronics,Robbins-Anderson,31377.44
+PROD0410,Electronics,Smith-Johnson,35607.33
+PROD0411,Electronics,Bennett Inc,28658.42
+PROD0412,Beauty,"Garza, Allen and Berg",26388.32
+PROD0413,Home,Lopez-Chavez,27647.35
+PROD0414,Electronics,Williams-Barber,28275.68
+PROD0415,Electronics,"Vincent, Meyers and Watkins",9777.62
+PROD0416,Electronics,Nguyen PLC,40565.11
+PROD0417,Home,Brewer-Valdez,34643.47
+PROD0418,Home,"Chavez, Jimenez and Tanner",8900.64
+PROD0419,Electronics,Oliver Ltd,24197.43
+PROD0420,Sports,"Diaz, Valdez and Mooney",21840.88
+PROD0421,Home,Blackburn and Sons,13861.68
+PROD0422,Fashion,"Guzman, Smith and Simpson",31487.44
+PROD0423,Sports,Callahan-Ross,43785.51
+PROD0424,Books,"Peterson, Thompson and Farley",32349.19
+PROD0425,Books,Day-Lee,15018.24
+PROD0426,Books,"Pugh, Bryan and Weaver",2964.05
+PROD0427,Books,"Weiss, Sandoval and Crawford",4207.95
+PROD0428,Home,"Cain, Williams and White",17924.13
+PROD0429,Beauty,Browning Inc,30105.27
+PROD0430,Sports,Tyler-Sanchez,46906.51
+PROD0431,Fashion,"Miller, Gilmore and Meyers",22864.97
+PROD0432,Sports,"Davis, Martin and Taylor",37443.74
+PROD0433,Beauty,Perez Inc,514.73
+PROD0434,Sports,Wilson LLC,31244.36
+PROD0435,Fashion,Rasmussen-Vazquez,13120.78
+PROD0436,Beauty,Rodriguez-Rodriguez,44718.21
+PROD0437,Books,Hernandez LLC,23435.74
+PROD0438,Books,Castaneda-Butler,36220.07
+PROD0439,Books,Austin-Willis,25145.82
+PROD0440,Books,"Ellis, Lowery and Clay",22153.95
+PROD0441,Beauty,"Aguirre, Hayes and Osborne",746.36
+PROD0442,Fashion,"Beck, Mcdowell and Waters",31774.5
+PROD0443,Fashion,"Miller, White and Becker",7221.46
+PROD0444,Fashion,Clark-Anderson,39603.33
+PROD0445,Books,Lewis PLC,32646.61
+PROD0446,Sports,Hale Ltd,37625.64
+PROD0447,Beauty,"Schmidt, Guzman and Harris",42897.62
+PROD0448,Electronics,Madden Ltd,27927.49
+PROD0449,Fashion,"Berry, Brooks and Gutierrez",17281.38
+PROD0450,Fashion,"Rivera, Sanders and Lopez",18719.63
+PROD0451,Home,Johnson Ltd,10009.47
+PROD0452,Books,Daniels LLC,4136.68
+PROD0453,Beauty,"Morrison, Vaughn and Mcdonald",42977.71
+PROD0454,Fashion,"Zuniga, Thompson and Wilcox",23013.6
+PROD0455,Electronics,Doyle Group,11084.96
+PROD0456,Sports,Hall-Ford,35715.03
+PROD0457,Sports,Lowe Group,30529.09
+PROD0458,Sports,"Williams, Miller and Baker",12297.81
+PROD0459,Home,Briggs-Walsh,7497.95
+PROD0460,Fashion,"Morgan, Schaefer and Lowe",37934.14
+PROD0461,Fashion,"Woods, Solomon and Wilson",9338.13
+PROD0462,Electronics,Cole-Dickerson,35915.52
+PROD0463,Books,Norris-Anthony,1825.38
+PROD0464,Home,"Juarez, Montgomery and Perkins",16696.8
+PROD0465,Fashion,Randall LLC,18489.86
+PROD0466,Fashion,"May, Mcmahon and Scott",21933.28
+PROD0467,Books,Smith Ltd,26793.11
+PROD0468,Beauty,Allen-King,7685.1
+PROD0469,Beauty,Reyes-Smith,25629.9
+PROD0470,Sports,Brewer-Kim,34418.31
+PROD0471,Books,Cherry-Gray,38705.99
+PROD0472,Books,"Obrien, Fisher and Dixon",17613.93
+PROD0473,Home,White PLC,24075.99
+PROD0474,Sports,Mclaughlin-Dixon,42180.82
+PROD0475,Sports,"Jordan, Bates and Henry",45664.98
+PROD0476,Beauty,Haley-Lloyd,21276.92
+PROD0477,Sports,"Fischer, Douglas and King",4468.35
+PROD0478,Books,"Jackson, Carter and Cruz",18683.99
+PROD0479,Fashion,Bell and Sons,49332.23
+PROD0480,Beauty,Burnett-Edwards,38581.79
+PROD0481,Books,"Butler, Gonzalez and Booker",39816.09
+PROD0482,Fashion,"Sharp, Roth and Marquez",45076.15
+PROD0483,Electronics,"Chung, Jarvis and Ramirez",244.31
+PROD0484,Fashion,"Fitzgerald, Macias and Burton",14016.85
+PROD0485,Beauty,"Rice, Martin and Henderson",28997.89
+PROD0486,Beauty,Moore Ltd,9143.65
+PROD0487,Fashion,"Huber, Barnes and Rodriguez",11609.02
+PROD0488,Books,"Rose, Rodriguez and Martinez",47233.66
+PROD0489,Sports,Lopez LLC,49552.64
+PROD0490,Sports,"Rivera, Lin and Butler",41729.15
+PROD0491,Home,"Hatfield, Lewis and Nguyen",48244.33
+PROD0492,Sports,Walker-Jackson,34165.73
+PROD0493,Books,"Lee, Palmer and Sanchez",2269.9
+PROD0494,Beauty,Jones PLC,21118.7
+PROD0495,Home,Thomas-Rodriguez,38688.03
+PROD0496,Sports,Williams-Davis,47133.17
+PROD0497,Electronics,"Dunn, Smith and Davis",40154.5
+PROD0498,Beauty,"Adams, Singleton and Rich",42688.03
+PROD0499,Sports,"Austin, Hanson and Lopez",30130.21
+PROD0500,Electronics,Shelton-Lewis,27526.58
