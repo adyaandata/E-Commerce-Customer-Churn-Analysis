@@ -39,6 +39,18 @@ The dataset was obtained from Kaggle and contains multiple interconnected tables
 
 ---
 
+## Tech Stack
+
+### Database & Querying
+- PostgreSQL
+- SQL
+
+### Data Visualization & Reporting
+- Power BI
+- DAX
+
+---
+
 ## Database Design
 
 A relational database was built in PostgreSQL to efficiently store and analyze the data.
@@ -183,8 +195,7 @@ To create business-focused KPIs, DAX measures were developed for:
 - Focus retention efforts on high-risk customer segments.
 - Monitor customer satisfaction scores regularly.
 - Offer welcome discounts and personalized recommendations to encourage repeat purchases.
-- Identify churn indicators early through continuous monitoring.
-- Leverage dashboard insights for proactive decision-making.
+- Use dashboard insights to identify churn risks early and improve customer retention strategies.
 
 ---
 
